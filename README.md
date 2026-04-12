@@ -28,4 +28,5 @@ Promote top-selling products
 Optimize low-profit items
 
 # Dashboard
-<img width="2767" height="1600" alt="sales_dashboard-1" src="https://github.com/user-attachments/assets/a68aa26d-3504-4e49-8e21-fa1fd7d5b211" />
+<img width="2767" height="1600" alt="sales_dashboard-1" src="https://github.com/user-attachments/assets/6a240cb3-9dcd-46aa-89cc-be41f0e89003" />
+
